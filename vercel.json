@@ -11,9 +11,5 @@
       "src": "/(.*)",
       "dest": "server.js"
     }
-  ],
-  "env": {
-    "NODE_ENV": "production",
-    "SESSION_SECRET": "@session_secret_change_in_production"
-  }
+  ]
 }
