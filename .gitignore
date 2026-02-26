@@ -1,0 +1,14 @@
+node_modules/
+students.db
+*.log
+.DS_Store
+.env
+.env.local
+.env.*.local
+.vscode/
+dist/
+build/
+*.swp
+*.swo
+*~
+.vercel/
